@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/todos/static/css/main.0d1362b9.chunk.css",
+    "main.js": "/todos/static/js/main.711a5305.chunk.js",
+    "main.js.map": "/todos/static/js/main.711a5305.chunk.js.map",
+    "runtime-main.js": "/todos/static/js/runtime-main.3a3b35db.js",
+    "runtime-main.js.map": "/todos/static/js/runtime-main.3a3b35db.js.map",
+    "static/js/2.a52de33f.chunk.js": "/todos/static/js/2.a52de33f.chunk.js",
+    "static/js/2.a52de33f.chunk.js.map": "/todos/static/js/2.a52de33f.chunk.js.map",
+    "static/js/3.06e992b5.chunk.js": "/todos/static/js/3.06e992b5.chunk.js",
+    "static/js/3.06e992b5.chunk.js.map": "/todos/static/js/3.06e992b5.chunk.js.map",
+    "index.html": "/todos/index.html",
+    "static/css/main.0d1362b9.chunk.css.map": "/todos/static/css/main.0d1362b9.chunk.css.map",
+    "static/js/2.a52de33f.chunk.js.LICENSE.txt": "/todos/static/js/2.a52de33f.chunk.js.LICENSE.txt",
+    "static/media/bottomArrow.94c63f7a.svg": "/todos/static/media/bottomArrow.94c63f7a.svg",
+    "static/media/checkMark.9449bc36.svg": "/todos/static/media/checkMark.9449bc36.svg",
+    "static/media/closeImg.b0a703ee.svg": "/todos/static/media/closeImg.b0a703ee.svg",
+    "static/media/logo.6ce24c58.svg": "/todos/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a3b35db.js",
+    "static/js/2.a52de33f.chunk.js",
+    "static/css/main.0d1362b9.chunk.css",
+    "static/js/main.711a5305.chunk.js"
+  ]
+}
