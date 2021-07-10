@@ -1,0 +1,60 @@
+.filterLine{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15px 8px;
+}
+.filterLine__itemsCount{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+.filterLine__showWhat{
+
+}
+.filterLine__clearCompleted{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+
+}
+.clearCompleted{
+    cursor: pointer;
+}
+.clearCompleted:hover {
+    text-decoration: underline;
+}
+.button{
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+.activeBnt{
+    border: 1px solid gray;
+    border-radius: 3px;
+}
+
+@media (max-width: 600px) {
+    .filterLine{
+        flex-wrap: wrap;
+        /*flex-direction: column;*/
+        justify-content: center;
+        align-content: center;
+        padding-bottom: 20px;
+    }
+    .filterLine__itemsCount{
+        order: 1;
+        margin-right: 35px;
+    }
+    .filterLine__showWhat{
+        margin-top: 10px;
+        order: 3;
+    }
+    .filterLine__clearCompleted{
+        margin-left: 35px;
+        align-self: center;
+        flex-basis: auto;
+        order: 2;
+    }
+}

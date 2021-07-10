@@ -1,0 +1,36 @@
+.todos {
+    width: 500px;
+    background-color: #FDFDFD;
+    box-shadow: 0px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    border-radius: 2px;
+}
+
+.title {
+    text-align: center;
+    font-size: 60px;
+    color:#D2691E;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+}
+
+.footer{
+    margin-top: 50px;
+    text-align: center;
+}
+.footer h6{
+    margin: 13px 0 0 0 ;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color:#cccccc;
+    font-weight: 400;
+    text-align: center;
+}
+.footer h6 span{
+    color:#a4a4a4;
+}
+
+@media (max-width: 600px) {
+    .todos {
+        width: 360px;
+    }
+}
